@@ -1,11 +1,8 @@
 # CSE2003-JComponent
 
 RAILWAY TICKET BOOKING SYSTEM
-A C++ code that simulates railway reservation system
 
-Name: Afreen Ahmed
-Reg: 18BIS0157
-Slot: CSE2003, L11 + L12
+A C++ code that simulates railway reservation system
 
 Open the linked C++ file in any compatible IDE.
 
